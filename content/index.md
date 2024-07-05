@@ -1,4 +1,3 @@
----
 
 This page serves as the documentation of the Simulation Codebase of Equinox
 as well as personal notes and observations on current and future upgrades.
