@@ -28,7 +28,7 @@
 Go to the project, activate the filters from Cristian (IN RUNS) --> DOWNLOAD CSV
 
 This CSV must be uploaded to Sim Machines 1,2,3,4
-at Path: [/home/equinoxai/simulation_params/{symbol}]
+at Path: [/home/equinoxai/simulation_params/symbol]
 
 ---------------
 Go Back to the google document and put the csv file name.
