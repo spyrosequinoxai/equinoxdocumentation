@@ -1,4 +1,4 @@
-### Simulation Setup
+### Simulation Setup hello
 
 * Wandb staging equinox --> Create new Project
 * Sweeps --> Copy YAML config
