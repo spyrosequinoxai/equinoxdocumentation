@@ -7,5 +7,6 @@ Link to parameter search ideas: [[Ideas on parameter search]]
 Link to simulation maths: [[Simulation-Maths]]
 Link to trader states: [[Trader States]]
 Link to deployment notes: [[Notes on Deployment]]
+Notes on Refactoring: [[Notes on Band Creation]], [[Configurations]]
 
 
